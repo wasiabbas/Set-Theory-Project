@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 13.00
+# Visual Studio 13
+VisualStudioVersion = 13.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DM Project", "DM Project\DM Project.csproj", "{0F8958CF-8985-4F20-91AB-F24DDDBC8CF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F8958CF-8985-4F20-91AB-F24DDDBC8CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8958CF-8985-4F20-91AB-F24DDDBC8CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8958CF-8985-4F20-91AB-F24DDDBC8CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8958CF-8985-4F20-91AB-F24DDDBC8CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
